@@ -24,12 +24,13 @@
 
 Sou estudante do 5º período de **Análise e Desenvolvimento de Sistemas** na UNISUAM, transitando entre duas frentes que gosto de explorar: **desenvolvimento front-end** e **dados**.
 
-De um lado, construo interfaces com React, HTML, CSS e JavaScript. Do outro, mexo com Python para analisar dados e começo a me aventurar em ciência de dados e machine learning.
+De um lado, construo interfaces com React, HTML, CSS e JavaScript, e começo a explorar backend com Node.js e PHP. Do outro, mexo com Python para analisar dados e começo a me aventurar em ciência de dados, machine learning e IA (com PyTorch).
 
 Ainda não tenho projetos publicados — este perfil vai crescer junto com o que eu for construindo. 🌱
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (UNISUAM)
-- 🧠 Interesse em Ciência de Dados, Machine Learning e modelagem matemática
+- 🧠 Interesse em Ciência de Dados, Machine Learning e Inteligência Artificial
+- 🛠️ Explorando backend com Node.js
 - 🤝 Gosto de trabalhar em equipe e trocar conhecimento
 - 📍 Rio de Janeiro, Brasil
 
@@ -56,7 +57,13 @@ Ainda não tenho projetos publicados — este perfil vai crescer junto com o que
 
 **Backend & Banco de dados**
 
-<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql&theme=dark" />
+
+<br/><br/>
+
+**IA**
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 
 <br/><br/>
 
@@ -107,7 +114,6 @@ Ainda não tenho projetos publicados — este perfil vai crescer junto com o que
 
 <div align="center">
 
-<sub>Feito por Henrique Barros Bastos</sub>
+<sub>Feito com 🖤 por Henrique Barros Bastos</sub>
 
 </div>
-
