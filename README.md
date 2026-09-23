@@ -107,7 +107,7 @@ Ainda não tenho projetos publicados — este perfil vai crescer junto com o que
 
 <div align="center">
 
-<sub>Feito com 🖤 por Henrique Barros Bastos</sub>
+<sub>Feito por Henrique Barros Bastos</sub>
 
 </div>
 
