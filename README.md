@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-Sou estudante do 5º período de **Análise e Desenvolvimento de Sistemas** na UNISUAM, transitando entre duas frentes que gosto de explorar: **desenvolvimento front-end** e **dados**.
+Sou estudante do 5º período de **Análise e Desenvolvimento de Sistemas** na UNISUAM.
 
 De um lado, construo interfaces com React, HTML, CSS e JavaScript, e começo a explorar backend com Node.js e PHP. Do outro, mexo com Python para analisar dados e começo a me aventurar em ciência de dados, machine learning e IA (com PyTorch).
 
